@@ -1,0 +1,33 @@
+.btn-warning {
+	background-color: #f4cc73 !important;
+}
+
+.btn-success {
+	background-color: #1cc88a !important;
+}
+
+.btn-primary {
+	background-color: #4e73df !important;
+}
+
+.btn-danger {
+	background-color: #DF4F4F !important;
+}
+
+.bg-primary {
+	background-color: #4e73df !important;
+}
+
+.footers {
+	margin-top: 200px!important;
+}
+
+.tables {
+	overflow-x: none;
+}
+
+@media (max-width: 980px) {
+	.tables {
+	overflow-x: scroll;
+	}
+}

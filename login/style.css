@@ -1,0 +1,62 @@
+body {
+  background-color: #4d73df;
+  margin: 0;
+  padding: 0;
+}
+
+.btn-primary {
+  background-color: #4e73df !important;
+}
+
+.container {
+  margin: 50px auto;
+}
+
+.container {
+  border-radius: 20px;
+}
+.container, .col-lg-6 {
+  font-family: "Font Digital", arial !important;
+}
+
+.col-lg-6 {
+  padding: 80px;
+}
+
+
+/* form login */
+
+.col-form {
+  background-color: #ddd;
+
+}
+
+h4 .logo {
+  width: 50px;
+}
+
+.banner_login {
+  width: 390px;
+}
+
+h4 {
+  font-size: 30px;
+  font-weight: 100px;
+  color: #3a3b45;
+}
+.form-control {
+  height: 50px;
+  border-radius: 50px;
+  font-size: 14px;
+  color: #6c6e70;
+}
+.btn {
+  border-radius: 50px;
+  height: 50px;
+}
+
+@media (max-width: 1000px) {
+  .col-hidden {
+    display: none;
+  }
+}

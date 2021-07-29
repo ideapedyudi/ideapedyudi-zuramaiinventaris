@@ -1,0 +1,35 @@
+body {
+	font-family: "Montserrat-Regular";
+}
+
+.logo {
+	width: 35px;
+	margin-top: -2px;
+}
+
+.navbar {
+	height: 80px;
+}
+
+.btn-warning {
+	background-color: #f4cc73 !important;
+}
+
+.btn-success {
+	background-color: #1cc88a !important;
+}
+
+.btn-primary {
+	background-color: #4e73df !important;
+}
+
+.bg-primary {
+	background-color: #4e73df !important;
+}
+
+@media (max-width: 780px) {
+	.mobile {
+		width: 100% !important;
+		margin-top: 25px !important;
+	}
+}
